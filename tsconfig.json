@@ -7,5 +7,6 @@
     },
     "files": [
         "app.ts"
-    ]
+    ],
+    "types": ["node"]
 }
