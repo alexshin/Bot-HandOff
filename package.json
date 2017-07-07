@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "@types/express": "^4.0.34",
-    "@types/node": "^6.0.59",
+    "@types/node": "^6.0.79",
     "nodemon": "^1.11.0"
   }
 }
